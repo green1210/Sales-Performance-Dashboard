@@ -147,34 +147,6 @@ Sales Performance Dashboard/
 
 ---
 
-## 🔍 Key Business Questions Answered
-
-### Revenue Analysis
-1. What are our monthly and quarterly revenue trends?
-2. Which product categories drive the most revenue?
-3. How does revenue vary by region and sales channel?
-4. What is our month-over-month and year-over-year growth?
-
-### Customer Insights
-5. Who are our most valuable customers (RFM segmentation)?
-6. What is the average customer lifetime value?
-7. What is our customer retention rate?
-8. How do new vs. returning customers compare in performance?
-
-### Product Performance
-9. Which are our top 10 and bottom 10 products?
-10. What is the impact of discounts on sales volume?
-11. Which categories are underperforming?
-12. What is our product category market share distribution?
-
-### KPIs & Metrics
-13. What is our average order value (AOV)?
-14. What is our conversion rate?
-15. What is the repeat purchase rate?
-16. How do KPIs trend over time?
-
----
-
 ## 📈 Key Performance Indicators (KPIs)
 
 | KPI | Definition | Business Impact |
@@ -366,10 +338,10 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 **Nagamanikanta Nallaganchu**  
 Data Analyst | Business Intelligence Specialist
 
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
-- Portfolio: [Your Website](https://yourportfolio.com)
-- GitHub: [@yourusername](https://github.com/yourusername)
+- LinkedIn: [Profile](https://linkedin.com/in/green1210)
+- Email: nagamanikanta1210@gmail.com
+- Portfolio: [Website](https://nagamanikanta.vercel.com)
+- GitHub: [@green1210](https://github.com/green1210)
 
 ---
 
