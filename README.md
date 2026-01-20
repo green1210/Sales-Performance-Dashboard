@@ -297,38 +297,6 @@ Based on the analysis of 50,000+ transactions:
 
 ---
 
-## 📝 Resume-Ready Bullet Points
-
-Use these achievement-oriented bullets for your resume:
-
-✅ **Developed end-to-end sales analytics solution** analyzing 50,000+ transactions using SQL, Python, Tableau, and Excel, delivering actionable insights that identified $2M+ revenue opportunities across underperforming product categories
-
-✅ **Automated Excel reporting workflow using Python (openpyxl) and Power Query**, reducing manual reporting time by 60% (from 90 to 35 minutes per report) and eliminating calculation errors
-
-✅ **Created interactive Tableau dashboard with 8 KPIs** tracking revenue trends, customer segmentation, and product performance, enabling executive team to make data-driven decisions
-
-✅ **Performed advanced SQL analytics** including RFM customer segmentation, cohort analysis, and time-series forecasting using CTEs and window functions on PostgreSQL database
-
-✅ **Conducted comprehensive EDA using Python (Pandas, NumPy, Matplotlib)**, uncovering key patterns in customer behavior that led to 15% improvement in repeat purchase rate recommendations
-
-✅ **Designed customer lifetime value (CLV) model** identifying top 20% of customers contributing 60% of revenue, enabling targeted retention campaigns
-
-✅ **Analyzed discount effectiveness across 12 product categories**, recommending optimal pricing strategy that projected 8% margin improvement
-
----
-
-## 🎤 Interview Preparation (STAR Format)
-
-See [INTERVIEW_PREP.md](INTERVIEW_PREP.md) for detailed STAR-format answers to common interview questions including:
-
-- Tell me about a time you used data to solve a business problem
-- Describe a complex SQL query you've written
-- How have you automated manual reporting processes?
-- Walk me through your approach to customer segmentation
-- Describe a dashboard you've built and its business impact
-
----
-
 ## 🛠️ Technologies & Tools
 
 | Category | Technologies |
@@ -395,7 +363,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📧 Contact
 
-**Your Name**  
+**Nagamanikanta Nallaganchu**  
 Data Analyst | Business Intelligence Specialist
 
 - LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
